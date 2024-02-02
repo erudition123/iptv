@@ -160,19 +160,4 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226151/index.m3u8
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="标清",延边卫视
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="标清",乐游
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226014/index.m3u8
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="标清",都市剧场
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226037/index.m3u8
-#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="标清",法治天地
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226036/index.m3u8
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="标清",游戏风云
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226003/index.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="标清",嘉佳卡通
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226011/index.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="标清",动漫秀场
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221225996/index.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="标清",卡酷少儿
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226157/index.m3u8
-#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.112114.xyz/logo/优漫卡通.png" group-title="标清",优漫卡通
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226149/index.m3u8
+

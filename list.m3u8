@@ -19,7 +19,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226761/index.m3u8
 #EXTINF:-1,tvg-id="辽宁宜家购物" tvg-name="辽宁宜家购物" tvg-logo="http://yepg.99tv.com.cn:99/pic/channel/besto1443083027269/besto1443083027269type1.png" group-title="地方频道",辽宁宜家购物
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226884/index.m3u8
-#EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="http://yepg.99tv.com.cn:99/pic/channel/besto1451289260372/besto1451289260372type1.jpg" group-title="地方频道",辽宁移动电视
+#EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://epg.112114.xyz/logo/辽宁移动电视.png" group-title="地方频道",辽宁移动电视
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226982/index.m3u8
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合

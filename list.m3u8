@@ -152,6 +152,6 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="标清",新疆卫视
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226151/index.m3u8
-#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="标清",延边卫视
+#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="标清",延边卫视
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
 

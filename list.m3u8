@@ -27,19 +27,19 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226703/index.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺 
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育 
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事 
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影 
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227341/index.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事 
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226175/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9 纪录 
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226174/index.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10 科教 

@@ -87,6 +87,8 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227432/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227368/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/影迷电影.png" group-title="数字频道",CHC影迷电影
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227490/index.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
+[2409:8087:1400:13::11f3]/PLTV/11/224/3221227371/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字频道",快乐垂钓
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227441/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
@@ -163,6 +165,16 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226816/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226801/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226874/index.m3u8
+#EXTINF:-1 tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="标清频道",老故事
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="标清频道",国学频道
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227435/index.m3u8
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="标清频道",书画频道
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227493/index.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="标清频道",先锋乒羽
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227365/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="标清频道",CGTN
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="标清频道",CETV-1
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226171/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="标清频道",CETV-2
@@ -171,6 +183,22 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226170/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="标清频道",CETV-4
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226940/index.m3u8
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/央广购物.png" group-title="标清频道",央广购物
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227105/index.m3u8
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="标清频道",家有购物
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226985/index.m3u8
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://epg.v1.mk/logo/聚鲨环球精选.png" group-title="标清频道",聚鲨环球精选
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227044/index.m3u8
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://epg.v1.mk/logo/好享购物.png" group-title="标清频道",好享购物
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226663/index.m3u8
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://epg.v1.mk/logo/优购物.png" group-title="标清频道",优购物
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227335/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="标清频道",嘉佳卡通
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226744/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="标清频道",优漫卡通
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226149/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="标清频道",卡酷少儿
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="标清频道",内蒙古卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226155/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="标清频道",西藏卫视

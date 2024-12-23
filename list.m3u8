@@ -141,6 +141,8 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频12
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频13
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视

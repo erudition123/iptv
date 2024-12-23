@@ -113,10 +113,34 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="数字频道",睛彩青少
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="数字频道",咪咕视频
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="数字频道",家庭理财
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227412/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227430/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227375/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227433/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视

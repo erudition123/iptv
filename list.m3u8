@@ -58,35 +58,35 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226869/index.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" group-title="央视频道",CCTV电视指南
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视频道",CCTV风云足球
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视频道",CCTV央视台球
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频道",CCTV第一剧场
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频道",CCTV风云剧场
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频道",CCTV高尔夫网球
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频道",CCTV怀旧剧场
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云音乐
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视频道",CCTV央视文化精品
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视频道",CCTV第一剧场
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视频道",CCTV风云剧场
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227450/index.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视频道",CCTV高尔夫网球
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227496/index.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频道",CCTV怀旧剧场
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云音乐
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
+#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视频道",CCTV央视文化精品
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视频道",CCTV女性时尚
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/影迷电影.png" group-title="数字频道",CHC影迷电影
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字频道",快乐垂钓
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227441/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
@@ -202,4 +202,4 @@ http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="标清频道",延边卫视
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
 #EXTINF:-1 tvg-name="西藏藏语" tvg-logo="https://epg.v1.mk/logo/西藏藏语.png" group-title="标清频道",西藏藏语卫视
-http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
+http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8

@@ -15,7 +15,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://epg.v1.mk/logo/辽宁北方频道.png" group-title="辽宁频道",北方频道
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
-#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://epg.v1.mk/logo/辽宁经济频道" group-title="辽宁频道",经济频道
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://epg.v1.mk/logo/辽宁经济频道.png" group-title="辽宁频道",经济频道
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
 #EXTINF:-1 tvg-name="辽宁宜家购物" tvg-logo="https://epg.v1.mk/logo/辽宁宜家购物.png" group-title="辽宁频道",宜家购物
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8

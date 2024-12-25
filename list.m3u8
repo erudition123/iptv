@@ -65,7 +65,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227380/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://epg.v1.mk/logo/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://epg.v1.mk/logo/CCTV风云剧场" group-title="央视频道",CCTV风云剧场
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://epg.v1.mk/logo/CCTV风云剧场.png" group-title="央视频道",CCTV风云剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://epg.v1.mk/logo/CCTV世界地理.png" group-title="央视频道",CCTV世界地理
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227450/index.m3u8
@@ -83,7 +83,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227505/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院" group-title="数字频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
@@ -239,11 +239,11 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227365/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="标清频道",CETV-1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226171/index.m3u8
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://epg.v1.mk/logo/CETV-2.png" group-title="标清频道",CETV-2
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="标清频道",CETV-2
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
-#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://epg.v1.mk/logo/CETV-3.png" group-title="标清频道",CETV-3
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://epg.v1.mk/logo/CETV3.png" group-title="标清频道",CETV-3
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://epg.v1.mk/logo/CETV-4.png" group-title="标清频道",CETV-4
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="标清频道",CETV-4
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/央广购物.png" group-title="标清频道",央广购物
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
@@ -285,7 +285,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227108/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="标清频道",山东教育卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视_.png" group-title="标清频道",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="标清频道",山西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="标清频道",陕西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8

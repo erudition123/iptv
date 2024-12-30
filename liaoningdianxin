@@ -25,7 +25,7 @@ http://10.255.128.136/PLTV/88888888/224/3221226257/10000100000000060000000000801
 http://10.255.128.136/PLTV/88888888/224/3221226293/10000100000000060000000001081237_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16-4K.png" group-title="4K",CCTV16-4K频道
 http://10.255.128.136/PLTV/88888888/224/3221226219/10000100000000060000000000712172_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="换小剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场
 http://10.255.128.136/PLTV/88888888/224/3221226186/10000100000000060000000000602976_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://10.255.128.136/PLTV/88888888/224/3221225633/10000100000000060000000000000170_0.smil/index.m3u8?fmt=ts2hls

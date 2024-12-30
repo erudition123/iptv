@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml "
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://epg.v1.mk/logo/沈阳新闻.png" group-title="辽宁频道",沈阳新闻综合
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁频道",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市频道.png" group-title="辽宁频道",都市频道
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8

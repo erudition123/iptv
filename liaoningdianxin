@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml "
 #EXTINF:-1 tvg-name="沈阳新闻综合" tvg-logo="https://epg.v1.mk/logo/沈阳新闻.png" group-title="辽宁频道",沈阳新闻综合
 http://10.255.128.136/PLTV/88888888/224/3221225786/10000100000000060000000000000323_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁频道",辽宁卫视
+http://10.255.128.136/PLTV/88888888/224/3221225632/10000100000000060000000000000169_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市频道.png" group-title="辽宁频道",都市频道
 http://10.255.128.136/PLTV/88888888/224/3221226258/10000100000000060000000000801420_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧频道.png" group-title="辽宁频道",影视剧频道
@@ -103,6 +105,52 @@ http://10.255.128.136/PLTV/88888888/224/3221226275/10000100000000060000000000801
 http://10.255.128.136/PLTV/88888888/224/3221225792/10000100000000060000000000000361_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-西班牙语国际频道
 http://10.255.128.136/PLTV/88888888/224/3221226249/10000100000000060000000000801388_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
+http://10.255.128.136/PLTV/88888888/224/3221226231/10000100000000060000000000787860_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+http://10.255.128.136/PLTV/88888888/224/3221226205/10000100000000060000000000787868_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+http://10.255.128.136/PLTV/88888888/224/3221226206/10000100000000060000000000787863_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="数字频道",都市剧场
+http://10.255.128.136/PLTV/88888888/224/3221226185/10000100000000060000000000602973_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="数字频道",生活时尚
+http://10.255.128.136/PLTV/88888888/224/3221226179/10000100000000060000000000602963_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="数字频道",家庭理财
+http://10.255.128.136/PLTV/88888888/224/3221225687/10000100000000060000000000000223_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="法制天地" tvg-logo="https://epg.v1.mk/logo/法制天地.png" group-title="数字频道",法制天地
+http://10.255.128.136/PLTV/88888888/224/3221226178/10000100000000060000000000602925_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="数字频道",金色学堂
+http://10.255.128.136/PLTV/88888888/224/3221226175/10000100000000060000000000602962_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="数字频道",乐游
+http://10.255.128.136/PLTV/88888888/224/3221226180/10000100000000060000000000602974_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶频道.png" group-title="数字频道",茶频道
+http://10.255.128.136/PLTV/88888888/224/3221225831/10000100000000060000000000264072_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
+http://10.255.128.136/PLTV/88888888/224/3221225832/10000100000000060000000000264071_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
+http://10.255.128.136/PLTV/88888888/224/3221225656/10000100000000060000000000000193_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.v1.mk/logo/纪实科教.png" group-title="数字频道",纪实科教
+http://10.255.128.136/PLTV/88888888/224/3221225655/10000100000000060000000000000192_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://epg.v1.mk/logo/文物宝库.png" group-title="数字频道",文物宝库
+http://10.255.128.136/PLTV/88888888/224/3221226224/10000100000000060000000000799005_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="数字频道",武术世界
+http://10.255.128.136/PLTV/88888888/224/3221226235/10000100000000060000000000799004_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://epg.v1.mk/logo/梨园频道.png" group-title="数字频道",梨园频道
+http://10.255.128.136/PLTV/88888888/224/3221226220/10000100000000060000000000799003_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://10.255.128.136/PLTV/88888888/224/3221226300/10000100000000060000000001081178_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://10.255.128.136/PLTV/88888888/224/3221226285/10000100000000060000000001081181_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="数字频道",睛彩青少
+http://10.255.128.136/PLTV/88888888/224/3221226319/10000100000000060000000001081183_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://10.255.128.136/PLTV/88888888/224/3221226261/10000100000000060000000000801427_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="数字频道",动漫秀场
+http://10.255.128.136/PLTV/88888888/224/3221226183/10000100000000060000000000602968_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="数字频道",新动漫
+http://10.255.128.136/PLTV/88888888/224/3221225697/10000100000000060000000000000233_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://10.255.128.136/PLTV/88888888/224/3221226268/10000100000000060000000000801410_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="卫视频道",CETV-1
 http://10.255.128.136/PLTV/88888888/224/3221225793/10000100000000060000000000000362_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="卫视频道",CETV-4
@@ -155,52 +203,6 @@ http://10.255.128.136/PLTV/88888888/224/3221226252/10000100000000060000000000801
 http://10.255.128.136/PLTV/88888888/224/3221225837/10000100000000060000000000382522_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://10.255.128.136/PLTV/88888888/224/3221225828/10000100000000060000000000263901_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://10.255.128.136/PLTV/88888888/224/3221226231/10000100000000060000000000787860_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://10.255.128.136/PLTV/88888888/224/3221226205/10000100000000060000000000787868_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
-http://10.255.128.136/PLTV/88888888/224/3221226206/10000100000000060000000000787863_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="数字频道",都市剧场
-http://10.255.128.136/PLTV/88888888/224/3221226185/10000100000000060000000000602973_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.v1.mk/logo/生活时尚.png" group-title="数字频道",生活时尚
-http://10.255.128.136/PLTV/88888888/224/3221226179/10000100000000060000000000602963_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="数字频道",家庭理财
-http://10.255.128.136/PLTV/88888888/224/3221225687/10000100000000060000000000000223_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="法制天地" tvg-logo="https://epg.v1.mk/logo/法制天地.png" group-title="数字频道",法制天地
-http://10.255.128.136/PLTV/88888888/224/3221226178/10000100000000060000000000602925_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="数字频道",金色学堂
-http://10.255.128.136/PLTV/88888888/224/3221226175/10000100000000060000000000602962_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="数字频道",乐游
-http://10.255.128.136/PLTV/88888888/224/3221226180/10000100000000060000000000602974_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶频道.png" group-title="数字频道",茶频道
-http://10.255.128.136/PLTV/88888888/224/3221225831/10000100000000060000000000264072_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
-http://10.255.128.136/PLTV/88888888/224/3221225832/10000100000000060000000000264071_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="数字频道",金鹰纪实
-http://10.255.128.136/PLTV/88888888/224/3221225656/10000100000000060000000000000193_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://epg.v1.mk/logo/纪实科教.png" group-title="数字频道",纪实科教
-http://10.255.128.136/PLTV/88888888/224/3221225655/10000100000000060000000000000192_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://epg.v1.mk/logo/文物宝库.png" group-title="数字频道",文物宝库
-http://10.255.128.136/PLTV/88888888/224/3221226224/10000100000000060000000000799005_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="数字频道",武术世界
-http://10.255.128.136/PLTV/88888888/224/3221226235/10000100000000060000000000799004_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://epg.v1.mk/logo/梨园频道.png" group-title="数字频道",梨园频道
-http://10.255.128.136/PLTV/88888888/224/3221226220/10000100000000060000000000799003_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="数字频道",睛彩竞技
-http://10.255.128.136/PLTV/88888888/224/3221226300/10000100000000060000000001081178_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="数字频道",睛彩篮球
-http://10.255.128.136/PLTV/88888888/224/3221226285/10000100000000060000000001081181_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="数字频道",睛彩青少
-http://10.255.128.136/PLTV/88888888/224/3221226319/10000100000000060000000001081183_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="数字频道",卡酷少儿
-http://10.255.128.136/PLTV/88888888/224/3221226261/10000100000000060000000000801427_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="数字频道",动漫秀场
-http://10.255.128.136/PLTV/88888888/224/3221226183/10000100000000060000000000602968_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="数字频道",新动漫
-http://10.255.128.136/PLTV/88888888/224/3221225697/10000100000000060000000000000233_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://10.255.128.136/PLTV/88888888/224/3221226268/10000100000000060000000000801410_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="标清频道",内蒙古卫视
 http://10.255.128.136/PLTV/88888888/224/3221225723/10000100000000060000000000000260_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="标清频道",西藏卫视

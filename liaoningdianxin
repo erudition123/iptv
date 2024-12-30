@@ -91,6 +91,18 @@ http://10.255.128.136/PLTV/88888888/224/3221225757/10000100000000060000000000000
 http://10.255.128.136/PLTV/88888888/224/3221225758/10000100000000060000000000000295_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://epg.v1.mk/logo/CCTV女性时尚.png" group-title="央视频道",CCTV女性时尚
 http://10.255.128.136/PLTV/88888888/224/3221225760/10000100000000060000000000000297_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-英语新闻频道
+http://10.255.128.136/PLTV/88888888/224/3221225791/10000100000000060000000000000360_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-阿拉伯语国际频道
+http://10.255.128.136/PLTV/88888888/224/3221226260/10000100000000060000000000801394_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-俄语国际频道
+http://10.255.128.136/PLTV/88888888/224/3221226279/10000100000000060000000000801397_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-法语国际频道
+http://10.255.128.136/PLTV/88888888/224/3221226275/10000100000000060000000000801393_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-纪录频道(国际版)
+http://10.255.128.136/PLTV/88888888/224/3221225792/10000100000000060000000000000361_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视频道",CGTN-西班牙语国际频道
+http://10.255.128.136/PLTV/88888888/224/3221226249/10000100000000060000000000801388_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="卫视频道",CETV-1
 http://10.255.128.136/PLTV/88888888/224/3221225793/10000100000000060000000000000362_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="卫视频道",CETV-4
@@ -235,18 +247,6 @@ http://10.255.128.136/PLTV/88888888/224/3221226283/10000100000000060000000000801
 http://10.255.128.136/PLTV/88888888/224/3221226242/10000100000000060000000000801337_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://epg.v1.mk/logo/中华特产.png" group-title="标清频道",中华特产
 http://10.255.128.136/PLTV/88888888/224/3221225841/10000100000000060000000000446101_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-英语新闻频道
-http://10.255.128.136/PLTV/88888888/224/3221225791/10000100000000060000000000000360_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-阿拉伯语国际频道
-http://10.255.128.136/PLTV/88888888/224/3221226260/10000100000000060000000000801394_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-俄语国际频道
-http://10.255.128.136/PLTV/88888888/224/3221226279/10000100000000060000000000801397_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-法语国际频道
-http://10.255.128.136/PLTV/88888888/224/3221226275/10000100000000060000000000801393_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-纪录频道(国际版)
-http://10.255.128.136/PLTV/88888888/224/3221225792/10000100000000060000000000000361_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="标清频道",CGTN-西班牙语国际频道
-http://10.255.128.136/PLTV/88888888/224/3221226249/10000100000000060000000000801388_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://epg.v1.mk/logo/央广购物.png" group-title="标清频道",央广购物
 http://10.255.128.136/PLTV/88888888/224/3221225808/10000100000000060000000000048771_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://epg.v1.mk/logo/家有购物.png" group-title="标清频道",家有购物

@@ -165,9 +165,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226816/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226801/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="4K/8K",北京卫视4K  
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="4K/8K频道",北京卫视4K  
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K",咪咕视频01-4K
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频01-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K",咪咕视频02-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8

@@ -169,7 +169,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频01-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K",咪咕视频02-4K
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频02-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频1
 http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8

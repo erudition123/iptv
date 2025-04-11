@@ -24,7 +24,7 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226884/index.m3u8
 #EXTINF:-1 tvg-name="辽宁移动" tvg-logo="https://epg.v1.mk/logo/辽宁移动电视频道.png" group-title="辽宁频道",移动电视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226982/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226998/index.m3u8
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227206/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -128,7 +128,7 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226700/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226733/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视频道",北京卫视 
-http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227340/index.m3u8
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视频道",东南卫视 

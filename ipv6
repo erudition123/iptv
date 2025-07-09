@@ -167,6 +167,10 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226801/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226874/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="4K/8K频道",北京卫视4K 
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227532/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视4K.png" group-title="4K/8K频道",广东卫视4K  
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227510/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视4K.png" group-title="4K/8K频道",深圳卫视4K  
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227538/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频01-4K
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频02-4K
@@ -283,6 +287,8 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226892/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="标清频道",延边卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227047/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="标清频道",三沙卫视
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227535/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="标清频道",嘉佳卡通
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226744/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="标清频道",优漫卡通

@@ -179,7 +179,7 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227393/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227381/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕-睛彩广场舞
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227384/index.m3u8
-##EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕-睛彩竞技
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕-睛彩竞技
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227436/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕-睛彩篮球
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227439/index.m3u8

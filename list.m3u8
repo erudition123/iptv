@@ -171,9 +171,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视4K.png" group-title="4K/8K频道",深圳卫视4K  
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频01-4K
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",至臻视界-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕视频02-4K
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="4K/8K频道",咪咕音乐-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕-睛彩竞技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8

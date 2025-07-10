@@ -237,8 +237,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频27
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频28
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="标清频道",北京体育休闲
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226185/index.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://epg.v1.mk/logo/老故事.png" group-title="标清频道",老故事

@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="沈阳新闻综合"  group-title="辽宁频道",沈阳新闻综合
+#EXTINF:-1 tvg-name="沈阳新闻综合"  group-title="辽宁频道",沈阳新闻
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227315/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="辽宁频道",辽宁卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226156/index.m3u8

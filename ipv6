@@ -180,69 +180,69 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227538/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="至臻视界"  group-title="4K/8K频道",至臻视界
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227393/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频01
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227293/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频02
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227296/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频03
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227299/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频04
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227302/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频05
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227305/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频06
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227308/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频07
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227314/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频08
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227317/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频09
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227320/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频10
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227323/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频11
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227326/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频12
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227366/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频13
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227369/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频14
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227372/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频15
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227375/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频16
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227378/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频17
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227381/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频18
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227384/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频19
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227387/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频20
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227390/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频21
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227406/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频22
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227409/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频23
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227412/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频24
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227427/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频25
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227430/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频26
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227433/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频27
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227436/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频28
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227439/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频29
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227442/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频30
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227445/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频31
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227448/index.m3u8
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕视频",咪咕视频32
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo= group-title="咪咕视频",咪咕视频
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227451/index.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://epg.v1.mk/logo/老故事.png" group-title="标清频道",老故事
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227438/index.m3u8

@@ -170,6 +170,10 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226896/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226893/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视"  group-title="卫视频道",兵团卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226859/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K超高清"  group-title="4K/8K频道",CCTV4K超高清
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227516/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16-4K"  group-title="4K/8K频道",CCTV16-4K
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227416/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="4K/8K频道",北京卫视4K 
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227532/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视"  group-title="4K/8K频道",广东卫视4K  

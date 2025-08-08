@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/,http://epg.51zmt.top:8000/e.xml,https://epg.aptv.app/pp.xml.gz" 
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xm,http://epg.51zmt.top:8000/e.xml,https://epg.aptv.app/pp.xml.gz" 
 #EXTINF:-1 tvg-name="沈阳新闻" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/沈阳新闻.png" group-title="辽宁频道",沈阳新闻
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227315/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁卫视.png" group-title="辽宁频道",辽宁卫视
@@ -171,9 +171,9 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226896/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226893/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221226859/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV4K超高清.png" group-title="4K/8K频道",CCTV4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV4K超高清.png" group-title="4K/8K频道",CCTV4K
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227516/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV16-4K.png" group-title="4K/8K频道",CCTV16-4K
+#EXTINF:-1 tvg-name="CCTV164K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV16-4K.png" group-title="4K/8K频道",CCTV16-4K
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227416/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/北京卫视4K.png" group-title="4K/8K频道",北京卫视4K
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227532/index.m3u8

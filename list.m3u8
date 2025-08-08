@@ -175,11 +175,11 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226859/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV16-4K.png" group-title="4K/8K频道",CCTV16
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/北京卫视4K .png" group-title="4K/8K频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/北京卫视4K.png" group-title="4K/8K频道",北京卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/广东卫视4K.png" group-title="4K/8K频道",广东卫视 
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/深圳卫视4K .png" group-title="4K/8K频道",深圳卫视  
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/深圳卫视4K.png" group-title="4K/8K频道",深圳卫视  
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/咪咕视频.png" group-title="4K/8K频道",咪咕视频
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8

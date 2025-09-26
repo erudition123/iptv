@@ -183,6 +183,18 @@ http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227532/index.m3u8
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227510/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/深圳卫视4K.png" group-title="4K/8K频道",深圳卫视4K  
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227538/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/湖南卫视4K.png" group-title="4K/8K频道",湖南卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227630/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/江苏卫视4K.png" group-title="4K/8K频道",江苏卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227627/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/四川卫视4K.png" group-title="4K/8K频道",四川卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227624/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/山东卫视4K.png" group-title="4K/8K频道",山东卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227621/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/东方卫视4K.png" group-title="4K/8K频道",东方卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/浙江卫视4K.png" group-title="4K/8K频道",浙江卫视4K 
+http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227542/index.m3u8
 #EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/咪视界4K.png" group-title="4K/8K频道",咪视界4K
 http://[2409:8087:1400:13::11f3]/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/至臻视界.png" group-title="4K/8K频道",至臻视界

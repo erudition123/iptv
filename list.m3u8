@@ -14,11 +14,11 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁生活.png" group-title="辽宁频道",辽宁生活
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8
 #EXTINF:-1 tvg-name="辽宁公共" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁公共.png" group-title="辽宁频道",辽宁公共
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227224/index.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁北方.png" group-title="辽宁频道",辽宁北方
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁经济.png" group-title="辽宁频道",辽宁经济
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8
 #EXTINF:-1 tvg-name="辽宁宜佳购物" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁宜佳购物.png" group-title="辽宁频道",辽宁宜佳购物
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
 #EXTINF:-1 tvg-name="辽宁移动电视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/辽宁移动电视.png"  group-title="辽宁频道",辽宁移动电视
@@ -26,7 +26,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV1.png" group-title="央视频道",CCTV1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV2.png" group-title="央视频道",CCTV2
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV3.png" group-title="央视频道",CCTV3
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV4.png" group-title="央视频道",CCTV4
@@ -44,21 +44,21 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV9.png" group-title="央视频道",CCTV9 
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV10.png" group-title="央视频道",CCTV10
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227321/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV11.png" group-title="央视频道",CCTV11 
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227251/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227443/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV12.png" group-title="央视频道",CCTV12
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV13.png" group-title="央视频道",CCTV13
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227333/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV14.png" group-title="央视频道",CCTV14 
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227349/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV15.png" group-title="央视频道",CCTV15
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227361/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV16.png" group-title="央视频道",CCTV16
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV17.png" group-title="央视频道",CCTV17
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
+http://hwottcdn.ln.chinamobile.com//PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/电视指南.png" group-title="央视频道",电视指南
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/风云足球.png" group-title="央视频道",风云足球
@@ -132,15 +132,15 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/广东卫视.png" group-title="卫视频道",广东卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/东南卫视.png" group-title="卫视频道",东南卫视 
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226784/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227239/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/天津卫视.png" group-title="卫视频道",天津卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227306/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227567/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/山东卫视.png" group-title="卫视频道",山东卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227312/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227509/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/四川卫视.png" group-title="卫视频道",四川卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -150,29 +150,29 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227518/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/江西卫视.png" group-title="卫视频道",江西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227598/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227288/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227521/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227310/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227488/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/广西卫视.png" group-title="卫视频道",广西卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227411/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/河北卫视.png" group-title="卫视频道",河北卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227408/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/河南卫视.png" group-title="卫视频道",河南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227595/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/云南卫视.png" group-title="卫视频道",云南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227530/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/海南卫视.png" group-title="卫视频道",海南卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226801/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PPLTV/11/224/3221227595/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227564/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226896/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226893/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226859/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226804/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227494/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV4K超高清.png" group-title="4K/8K频道",CCTV4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/CCTV16-4K.png" group-title="4K/8K频道",CCTV16
@@ -284,17 +284,17 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/内蒙古卫视.png" group-title="标清频道",内蒙古卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226155/index.m3u8
 #EXTINF:-1 tvg-name="西藏藏语" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/西藏藏语.png" group-title="标清频道",西藏藏语
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/厦门卫视.png" group-title="标清频道",厦门卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226803/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227591/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/安多卫视.png" group-title="标清频道",安多卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227561/index.m3u88
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/甘肃卫视.png" group-title="标清频道",甘肃卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226166/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/康巴卫视.png" group-title="标清频道",康巴卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227111/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/农林卫视.png" group-title="标清频道",农林卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227108/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227497/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/青海卫视.png" group-title="标清频道",青海卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/山东教育卫视.png" group-title="标清频道",山东教育卫视
@@ -302,9 +302,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/山西卫视.png" group-title="标清频道",山西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/陕西卫视.png" group-title="标清频道",陕西卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227503/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/延边卫视.png" group-title="标清频道",延边卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227607/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/三沙卫视.png" group-title="标清频道",三沙卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227610/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://aogulinlin.dpdns.org/https://github.com/erudition123/TVlogo/blob/main/img/嘉佳卡通.png" group-title="标清频道",嘉佳卡通
